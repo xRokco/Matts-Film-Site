@@ -1,5 +1,5 @@
 {
-	"test" : {
+	"categories" : [{
 		"name" : "Modern, Original Sci-fi",
 		"description" : "Sci-fi movies from this millenium that aren't remakes, reboots or based on a comic book (except for in exceptional cases)",
 		"movies" : [
@@ -7,152 +7,164 @@
 				"name" : "10 Cloverfield Lane",
 				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1937",
 				"year" : 2016,
-				"poster" : "10_cloverfield_lane.png"
+				"poster" : "10_cloverfield_lane.jpg"
 			},
 			{ 
 				"name" : "28 Days Later",
 				"link" : "",
 				"year" : 2003,
-				"poster" : "28_days_later.png"
+				"poster" : "28_days_later.jpg"
 			},
 			{
 				"name" : "Children of Men",
 				"link" : "",
 				"year" : 2006,
-				"poster" : "children_of_men.png"
+				"poster" : "children_of_men.jpg"
 			},
 			{
 				"name" : "Cloverfield",
 				"link" : "",
 				"year" : 2008,
-				"poster" : "cloverfield.png"
+				"poster" : "cloverfield.jpg"
 			},
 			{
 				"name" : "Edge of Tomorrow",
 				"link" : "",
 				"year" : 2014,
-				"poster" : "edge_of_tomorrow.png"
+				"poster" : "edge_of_tomorrow.jpg"
 			},
 			{
 				"name" : "Enemy",
 				"link" : "",
 				"year" : 2014,
-				"poster" : "enemy.png"
+				"poster" : "enemy.jpg"
 			},
 			{
 				"name" : "Europa Report",
 				"link" : "",
 				"year" : 2013,
-				"poster" : "europa_report.png"
+				"poster" : "europa_report.jpg"
 			},
 			{
 				"name" : "Ex Machina",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "ex_machina.png"
+				"poster" : "ex_machina.jpg"
 			},
 			{
 				"name" : "Her",
 				"link" : "",
 				"year" : 2013,
-				"poster" : "her.png"
+				"poster" : "her.jpg"
 			},
 			{
 				"name" : "Horns",
 				"link" : "",
 				"year" : 2014,
-				"poster" : "horns.png"
+				"poster" : "horns.jpg"
 			},
 			{
 				"name" : "Inception",
 				"link" : "",
 				"year" : 2010,
-				"poster" : "inception.png"
+				"poster" : "inception.jpg"
 			},
 			{
 				"name" : "Interstellar",
 				"link" : "",
 				"year" : 2014,
-				"poster" : "interstellar.png"
+				"poster" : "interstellar.jpg"
 			},
 			{
 				"name" : "Kingsman: The Secret Service",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "kingsman_the_secret_service.png"
+				"poster" : "kingsman_the_secret_service.jpg"
 			},
 			{
 				"name" : "Mad Max: Fury Road",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "mad_max_fury_road.png"
+				"poster" : "mad_max_fury_road.jpg"
 			},
 			{
 				"name" : "Moon",
 				"link" : "",
 				"year" : 2009,
-				"poster" : "moon.png"
+				"poster" : "moon.jpg"
 			},
 			{
 				"name" : "Pacific Rim",
 				"link" : "",
 				"year" : 2013,
-				"poster" : "pacific_rim.png"
+				"poster" : "pacific_rim.jpg"
 			},
 			{
 				"name" : "Pirates of the Caribbean: The Curse of the Black Pearl",
 				"link" : "",
 				"year" : 2003,
-				"poster" : "pirates_of_the_caribbean_the_curse_of_the_black_pearl.png"
+				"poster" : "pirates_of_the_caribbean_the_curse_of_the_black_pearl.jpg"
 			},
 			{
 				"name" : "Predestination",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "predestination.png"
+				"poster" : "predestination.jpg"
 			},
 			{
 				"name" : "Snowpiercer",
 				"link" : "",
 				"year" : 2014,
-				"poster" : "snowpiercer.png"
+				"poster" : "snowpiercer.jpg"
 			},
 			{
 				"name" : "Source Code",
 				"link" : "",
 				"year" : 2011,
-				"poster" : "source_code.png"
+				"poster" : "source_code.jpg"
 			},
 			{
 				"name" : "Sunshine",
 				"link" : "",
 				"year" : 2007,
-				"poster" : "sunshine.png"
+				"poster" : "sunshine.jpg"
 			},
 			{
 				"name" : "The Lobster",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "the_lobster.png"
+				"poster" : "the_lobster.jpg"
 			},
 			{
 				"name" : "The Martian",
 				"link" : "",
 				"year" : 2015,
-				"poster" : "the_martian.png"
+				"poster" : "the_martian.jpg"
 			},
 			{
 				"name" : "The Prestige",
 				"link" : "",
 				"year" : 2006,
-				"poster" : "the_prestige.png"
+				"poster" : "the_prestige.jpg"
 			},
 			{
 				"name" : "Under the Skin",
 				"link" : "",
 				"year" : 2013,
-				"poster" : "under_the_skin.png"
+				"poster" : "under_the_skin.jpg"
 			}
 		]
-	}
+	},
+	{
+		"name" : "Classic Sci-fi",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			}
+		]
+	}]
 }
