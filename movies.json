@@ -1,0 +1,158 @@
+{
+	"test" : {
+		"name" : "Modern, Original Sci-fi",
+		"description" : "Sci-fi movies from this millenium that aren't remakes, reboots or based on a comic book (except for in exceptional cases)",
+		"movies" : [
+			{
+				"name" : "10 Cloverfield Lane",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1937",
+				"year" : 2016,
+				"poster" : "10_cloverfield_lane.png"
+			},
+			{ 
+				"name" : "28 Days Later",
+				"link" : "",
+				"year" : 2003,
+				"poster" : "28_days_later.png"
+			},
+			{
+				"name" : "Children of Men",
+				"link" : "",
+				"year" : 2006,
+				"poster" : "children_of_men.png"
+			},
+			{
+				"name" : "Cloverfield",
+				"link" : "",
+				"year" : 2008,
+				"poster" : "cloverfield.png"
+			},
+			{
+				"name" : "Edge of Tomorrow",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "edge_of_tomorrow.png"
+			},
+			{
+				"name" : "Enemy",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "enemy.png"
+			},
+			{
+				"name" : "Europa Report",
+				"link" : "",
+				"year" : 2013,
+				"poster" : "europa_report.png"
+			},
+			{
+				"name" : "Ex Machina",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "ex_machina.png"
+			},
+			{
+				"name" : "Her",
+				"link" : "",
+				"year" : 2013,
+				"poster" : "her.png"
+			},
+			{
+				"name" : "Horns",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "horns.png"
+			},
+			{
+				"name" : "Inception",
+				"link" : "",
+				"year" : 2010,
+				"poster" : "inception.png"
+			},
+			{
+				"name" : "Interstellar",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "interstellar.png"
+			},
+			{
+				"name" : "Kingsman: The Secret Service",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "kingsman_the_secret_service.png"
+			},
+			{
+				"name" : "Mad Max: Fury Road",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "mad_max_fury_road.png"
+			},
+			{
+				"name" : "Moon",
+				"link" : "",
+				"year" : 2009,
+				"poster" : "moon.png"
+			},
+			{
+				"name" : "Pacific Rim",
+				"link" : "",
+				"year" : 2013,
+				"poster" : "pacific_rim.png"
+			},
+			{
+				"name" : "Pirates of the Caribbean: The Curse of the Black Pearl",
+				"link" : "",
+				"year" : 2003,
+				"poster" : "pirates_of_the_caribbean_the_curse_of_the_black_pearl.png"
+			},
+			{
+				"name" : "Predestination",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "predestination.png"
+			},
+			{
+				"name" : "Snowpiercer",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "snowpiercer.png"
+			},
+			{
+				"name" : "Source Code",
+				"link" : "",
+				"year" : 2011,
+				"poster" : "source_code.png"
+			},
+			{
+				"name" : "Sunshine",
+				"link" : "",
+				"year" : 2007,
+				"poster" : "sunshine.png"
+			},
+			{
+				"name" : "The Lobster",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "the_lobster.png"
+			},
+			{
+				"name" : "The Martian",
+				"link" : "",
+				"year" : 2015,
+				"poster" : "the_martian.png"
+			},
+			{
+				"name" : "The Prestige",
+				"link" : "",
+				"year" : 2006,
+				"poster" : "the_prestige.png"
+			},
+			{
+				"name" : "Under the Skin",
+				"link" : "",
+				"year" : 2013,
+				"poster" : "under_the_skin.png"
+			}
+		]
+	}
+}
