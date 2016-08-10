@@ -58,12 +58,6 @@
 				"poster" : "her.jpg"
 			},
 			{
-				"name" : "Horns",
-				"link" : "",
-				"year" : 2014,
-				"poster" : "horns.jpg"
-			},
-			{
 				"name" : "Inception",
 				"link" : "",
 				"year" : 2010,
@@ -74,12 +68,6 @@
 				"link" : "",
 				"year" : 2014,
 				"poster" : "interstellar.jpg"
-			},
-			{
-				"name" : "Kingsman: The Secret Service",
-				"link" : "",
-				"year" : 2015,
-				"poster" : "kingsman_the_secret_service.jpg"
 			},
 			{
 				"name" : "Mad Max: Fury Road",
@@ -164,6 +152,12 @@
 				"link" : "",
 				"year" : 1995,
 				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
 			}
 		]
 	}]

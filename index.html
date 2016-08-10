@@ -1,42 +1,43 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>PlexRecs</title>
-	</head>
-	<body>
-		<div id="title"></div>
-		<div id="id01"></div>
+    <head>
+        <title>PlexRecs</title>
+        <link href="styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    </head>
+    <body>
+        <div id="title"></div>
+        <div id="id01"></div>
 
-		<script>
-			var xmlhttp = new XMLHttpRequest();
-			var url = "movies.json";
-			var myArr;
+        <script>
+            var xmlhttp = new XMLHttpRequest();
+            var url = "movies.json";
+            var myArr;
 
-			xmlhttp.onreadystatechange = function() {
-			    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-			        myArr = JSON.parse(xmlhttp.responseText);
-			        catlist(myArr);
-			    }
-			};
-			xmlhttp.open("GET", url, true);
-			xmlhttp.send();
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    myArr = JSON.parse(xmlhttp.responseText);
+                    catlist(myArr);
+                }
+            };
+            xmlhttp.open("GET", url, true);
+            xmlhttp.send();
 
-			function catlist(arr) {
-			    var out = "";
-			    var i;
-			    for(i = 0; i < arr.categories.length; i++) {
-			        out += '<h1 onclick="movielist(' + i + ')">' + arr.categories[i].name + '</h1><p>' + arr.categories[i].description + '</p>';
-			    }
-			    document.getElementById("title").innerHTML = out;
-			}
+            function catlist(arr) {
+                var out = "";
+                var i;
+                for(i = 0; i < arr.categories.length; i++) {
+                    out += '<h1 onclick="movielist(' + i + ')">' + arr.categories[i].name + '</h1><p>' + arr.categories[i].description + '</p>';
+                }
+                document.getElementById("title").innerHTML = out;
+            }
 
-			function movielist(j) {
-			    var out = "";
-			    for(i = 0; i < myArr.categories[j].movies.length; i++) {
-			        out += '<a href="' + myArr.categories[j].movies[i].link + '"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + '" src="images/' + myArr.categories[j].movies[i].poster + '" width="200px"></img></a><br>';
-			    }
-			    document.getElementById("id01").innerHTML = out;
-			}
-		</script>
-	</body>
+            function movielist(j) {
+                var out = "";
+                for(i = 0; i < myArr.categories[j].movies.length; i++) {
+                    out += '<div class="itemsContainer"><div class="image"> <a href="' + myArr.categories[j].movies[i].link + '" class="darken"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + '" src="images/' + myArr.categories[j].movies[i].poster + '" /></a></div><div class="play"><a href="' + myArr.categories[j].movies[i].link + '"><img src="images/play.png" width="50px" /></a></div></div>';
+                }
+                document.getElementById("id01").innerHTML = out;
+            }
+        </script>
+    </body>
 </html>
