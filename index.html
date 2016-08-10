@@ -3,8 +3,15 @@
     <head>
         <title>PlexRecs</title>
         <link href="styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+        <script src="smooth.js"></script>
     </head>
     <body>
+        <header>
+            <nav>
+                <h1>PlexRecs</h1>
+            </nav>
+        </header>
         <div id="title"></div>
         <div id="id01"></div>
 
@@ -26,7 +33,7 @@
                 var out = "";
                 var i;
                 for(i = 0; i < arr.categories.length; i++) {
-                    out += '<h1 onclick="movielist(' + i + ')">' + arr.categories[i].name + '</h1><p>' + arr.categories[i].description + '</p>';
+                    out += '<a title="' + arr.categories[i].description + '" data-scroll href="#id01" class="button" onclick="movielist(' + i + ')">' + arr.categories[i].name + '</a>';
                 }
                 document.getElementById("title").innerHTML = out;
             }
@@ -39,5 +46,10 @@
                 document.getElementById("id01").innerHTML = out;
             }
         </script>
+        <footer>
+            <script>
+                smoothScroll.init();
+            </script>
+        </footer>
     </body>
 </html>

@@ -86,13 +86,7 @@
 				"link" : "",
 				"year" : 2013,
 				"poster" : "pacific_rim.jpg"
-			},
-			{
-				"name" : "Pirates of the Caribbean: The Curse of the Black Pearl",
-				"link" : "",
-				"year" : 2003,
-				"poster" : "pirates_of_the_caribbean_the_curse_of_the_black_pearl.jpg"
-			},
+			},	
 			{
 				"name" : "Predestination",
 				"link" : "",
@@ -158,6 +152,408 @@
 				"link" : "",
 				"year" : 1968,
 				"poster" : "2001_a_space_odyssey.jpg"
+			},
+			{
+				"name" : "The Abyss",
+				"link" : "",
+				"year" : 1989,
+				"poster" : "the_abyss.jpg"
+			},
+			{
+				"name" : "Akira",
+				"link" : "",
+				"year" : 1988,
+				"poster" : "akira.jpg"
+			},
+			{
+				"name" : "Alien",
+				"link" : "",
+				"year" : 1979,
+				"poster" : "alien.jpg"
+			},
+			{
+				"name" : "Aliens",
+				"link" : "",
+				"year" : 1986,
+				"poster" : "aliens.jpg"
+			},
+			{
+				"name" : "Blade Runner",
+				"link" : "",
+				"year" : 1982,
+				"poster" : "blade_runner.jpg"
+			},
+			{
+				"name" : "Brazil",
+				"link" : "",
+				"year" : 1985,
+				"poster" : "brazil.jpg"
+			},
+			{
+				"name" : "A Clockwork Orange",
+				"link" : "",
+				"year" : 1971,
+				"poster" : "a_clockwork_orange.jpg"
+			},
+			{
+				"name" : "Star Wards Episode V: The Empire Strikes Back",
+				"link" : "",
+				"year" : 1980,
+				"poster" : "star_wars_v.jpg"
+			},
+			{
+				"name" : "The Fly",
+				"link" : "",
+				"year" : 1986,
+				"poster" : "the_fly.jpg"
+			},
+			{
+				"name" : "Mad Max",
+				"link" : "",
+				"year" : 1980,
+				"poster" : "mad_max.jpg"
+			},
+			{
+				"name" : "Mad Max 2: The Road Warrior",
+				"link" : "",
+				"year" : 1982,
+				"poster" : "mad_max_2_the_road_warrior.jpg"
+			},
+			{
+				"name" : "Outbreak",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "outbreak.jpg"
+			},
+			{
+				"name" : "Predator",
+				"link" : "",
+				"year" : 1987,
+				"poster" : "predator.jpg"
+			},
+			{
+				"name" : "Star Wars Episode VI: Return of the Jedi",
+				"link" : "",
+				"year" : 1983,
+				"poster" : "star_wars_vi.jpg"
+			},
+			{
+				"name" : "Solaris",
+				"link" : "",
+				"year" : 1972,
+				"poster" : "solaris.jpg"
+			},
+			{
+				"name" : "Stalker",
+				"link" : "",
+				"year" : 1979,
+				"poster" : "stalker.jpg"
+			},
+			{
+				"name" : "Star Wars Episode IV: A New Hope",
+				"link" : "",
+				"year" : 1977,
+				"poster" : "star_wars_iv.jpg"
+			},
+			{
+				"name" : "Starship Troopers",
+				"link" : "",
+				"year" : 1977,
+				"poster" : "starship_troopers.jpg"
+			},
+			{
+				"name" : "The Terminator",
+				"link" : "",
+				"year" : 1984,
+				"poster" : "the_terminator.jpg"
+			},
+			{
+				"name" : "Terminator 2: Judgement Day",
+				"link" : "",
+				"year" : 1991,
+				"poster" : "terminator_2_judgement_day.jpg"
+			},
+			{
+				"name" : "They Live",
+				"link" : "",
+				"year" : 1988,
+				"poster" : "they_live.jpg"
+			},
+			{
+				"name" : "The Thing",
+				"link" : "",
+				"year" : 1982,
+				"poster" : "the_thing.jpg"
+			},
+			{
+				"name" : "Total Recall",
+				"link" : "",
+				"year" : 1990,
+				"poster" : "total_recall.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Movies about music",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Sad & harrowing movies",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Movies with war",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Long but worthwhile movies",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Movies kids can watch",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			}
+		]
+	},
+	{
+		"name" : "Movies to watch before you die",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "12 Monkeys",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "12_monkeys.jpg"
+			},
+			{
+				"name" : "2001: A Space Odyssey",
+				"link" : "",
+				"year" : 1968,
+				"poster" : "2001_a_space_odyssey.jpg"
+			},
+			{
+				"name" : "Alien",
+				"link" : "",
+				"year" : 1979,
+				"poster" : "alien.jpg"
+			},
+			{
+				"name" : "Apocalypse Now",
+				"link" : "",
+				"year" : 1979,
+				"poster" : "apocalypse_now.jpg"
+			},
+			{
+				"name" : "Badlands",
+				"link" : "",
+				"year" : 1973,
+				"poster" : "badlands.jpg"
+			},
+			{
+				"name" : "Blade Runner",
+				"link" : "",
+				"year" : 1982,
+				"poster" : "blade_runner.jpg"
+			},
+			{
+				"name" : "Citizen Kane",
+				"link" : "",
+				"year" : 1941,
+				"poster" : "citizen_kane.jpg"
+			},
+			{
+				"name" : "Fargo",
+				"link" : "",
+				"year" : 1996,
+				"poster" : "fargo.jpg"
+			},
+			{
+				"name" : "The Godfather",
+				"link" : "",
+				"year" : 1972,
+				"poster" : "the_godfather.jpg"
+			},
+			{
+				"name" : "Good Will Hunting",
+				"link" : "",
+				"year" : 1997,
+				"poster" : "good_will_hunting.jpg"
+			},
+			{
+				"name" : "The Good, The Bad and The Ugly",
+				"link" : "",
+				"year" : 1967,
+				"poster" : "the_good_the_bad_and_the_ugly.jpg"
+			},
+			{
+				"name" : "The Lord of the Rings: The Fellowship of the Ring",
+				"link" : "",
+				"year" : 2001,
+				"poster" : "the_lord_of_the_rings_the_fellowship_of_the_ring.jpg"
+			},
+			{
+				"name" : "Magnolia",
+				"link" : "",
+				"year" : 1999,
+				"poster" : "magnolia.jpg"
+			},
+			{
+				"name" : "No Country For Old Men",
+				"link" : "",
+				"year" : 2007,
+				"poster" : "no_country_for_old_men.jpg"
+			},
+			{
+				"name" : "One Flew Over the Cuckoo's Nest",
+				"link" : "",
+				"year" : 1975,
+				"poster" : "one_flew_over_the_cuckoos_nest.jpg"
+			},
+			{
+				"name" : "Pan's Labyrinth",
+				"link" : "",
+				"year" : 2006,
+				"poster" : "pans_labyrinth.jpg"
+			},
+			{
+				"name" : "Psycho",
+				"link" : "",
+				"year" : 1960,
+				"poster" : "psycho.jpg"
+			},
+			{
+				"name" : "Pulp Fiction",
+				"link" : "",
+				"year" : 1994,
+				"poster" : "pulp_fiction.jpg"
+			},
+			{
+				"name" : "Requiem for a Dream",
+				"link" : "",
+				"year" : 2000,
+				"poster" : "requiem_for_a_dream.jpg"
+			},
+			{
+				"name" : "Seven Samurai",
+				"link" : "",
+				"year" : 1956,
+				"poster" : "seven_samurai.jpg"
+			},
+			{
+				"name" : "The Silence of the Lambs",
+				"link" : "",
+				"year" : 1991,
+				"poster" : "the_silence_of_the_lambs.jpg"
+			},
+			{
+				"name" : "Taxi Driver",
+				"link" : "",
+				"year" : 1976,
+				"poster" : "taxi_driver.jpg"
+			},
+			{
+				"name" : "The Will Be Blood",
+				"link" : "",
+				"year" : 2007,
+				"poster" : "there_will_be_blood.jpg"
+			},
+			{
+				"name" : "The Thin Red Line",
+				"link" : "",
+				"year" : 1998,
+				"poster" : "the_thin_red_line.jpg"
+			},
+			{
+				"name" : "The Thing",
+				"link" : "",
+				"year" : 1982,
+				"poster" : "the_thing.jpg"
+			},
+			{
+				"name" : "The Usual Suspects",
+				"link" : "",
+				"year" : 1995,
+				"poster" : "the_usual_suspects.jpg"
+			},
+			{
+				"name" : "Whiplash",
+				"link" : "",
+				"year" : 2014,
+				"poster" : "whiplash.jpg"
+			},
+			{
+				"name" : "Zodiac",
+				"link" : "",
+				"year" : 2007,
+				"poster" : "zodiac.jpg"
 			}
 		]
 	}]
