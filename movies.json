@@ -11,19 +11,19 @@
 			},
 			{ 
 				"name" : "28 Days Later",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/app#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F175",
 				"year" : 2003,
 				"poster" : "28_days_later.jpg"
 			},
 			{
 				"name" : "Children of Men",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1777",
 				"year" : 2006,
 				"poster" : "children_of_men.jpg"
 			},
 			{
 				"name" : "Cloverfield",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F113",
 				"year" : 2008,
 				"poster" : "cloverfield.jpg"
 			},
