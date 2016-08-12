@@ -98,3 +98,12 @@ a {
     width: 300px;
 }
 
+#id01 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+nav h1 {
+    text-align: center;
+}

@@ -11,7 +11,7 @@
 			},
 			{ 
 				"name" : "28 Days Later",
-				"link" : "https://plex.rokco.org/web/app#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F175",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F175",
 				"year" : 2003,
 				"poster" : "28_days_later.jpg"
 			},
@@ -29,109 +29,103 @@
 			},
 			{
 				"name" : "Edge of Tomorrow",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F47",
 				"year" : 2014,
 				"poster" : "edge_of_tomorrow.jpg"
 			},
 			{
-				"name" : "Enemy",
-				"link" : "",
-				"year" : 2014,
-				"poster" : "enemy.jpg"
-			},
-			{
 				"name" : "Europa Report",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1844",
 				"year" : 2013,
 				"poster" : "europa_report.jpg"
 			},
 			{
 				"name" : "Ex Machina",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F41",
 				"year" : 2015,
 				"poster" : "ex_machina.jpg"
 			},
 			{
 				"name" : "Her",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F9",
 				"year" : 2013,
 				"poster" : "her.jpg"
 			},
 			{
 				"name" : "Inception",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F2",
 				"year" : 2010,
 				"poster" : "inception.jpg"
 			},
 			{
 				"name" : "Interstellar",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F333",
 				"year" : 2014,
 				"poster" : "interstellar.jpg"
 			},
 			{
 				"name" : "Mad Max: Fury Road",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F207",
 				"year" : 2015,
 				"poster" : "mad_max_fury_road.jpg"
 			},
 			{
 				"name" : "Moon",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F209",
 				"year" : 2009,
 				"poster" : "moon.jpg"
 			},
 			{
 				"name" : "Pacific Rim",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F315",
 				"year" : 2013,
 				"poster" : "pacific_rim.jpg"
 			},	
 			{
 				"name" : "Predestination",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F265",
 				"year" : 2015,
 				"poster" : "predestination.jpg"
 			},
 			{
 				"name" : "Snowpiercer",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F259",
 				"year" : 2014,
 				"poster" : "snowpiercer.jpg"
 			},
 			{
 				"name" : "Source Code",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F269",
 				"year" : 2011,
 				"poster" : "source_code.jpg"
 			},
 			{
 				"name" : "Sunshine",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F284",
 				"year" : 2007,
 				"poster" : "sunshine.jpg"
 			},
 			{
 				"name" : "The Lobster",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F178",
 				"year" : 2015,
 				"poster" : "the_lobster.jpg"
 			},
 			{
 				"name" : "The Martian",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F152",
 				"year" : 2015,
 				"poster" : "the_martian.jpg"
 			},
 			{
 				"name" : "The Prestige",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F115",
 				"year" : 2006,
 				"poster" : "the_prestige.jpg"
 			},
 			{
 				"name" : "Under the Skin",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F253",
 				"year" : 2013,
 				"poster" : "under_the_skin.jpg"
 			}
@@ -143,145 +137,145 @@
 		"movies" : [
 			{
 				"name" : "12 Monkeys",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F275",
 				"year" : 1995,
 				"poster" : "12_monkeys.jpg"
 			},
 			{
 				"name" : "2001: A Space Odyssey",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1807",
 				"year" : 1968,
 				"poster" : "2001_a_space_odyssey.jpg"
 			},
 			{
 				"name" : "The Abyss",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1883",
 				"year" : 1989,
 				"poster" : "the_abyss.jpg"
 			},
 			{
 				"name" : "Akira",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F138",
 				"year" : 1988,
 				"poster" : "akira.jpg"
 			},
 			{
 				"name" : "Alien",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F110",
 				"year" : 1979,
 				"poster" : "alien.jpg"
 			},
 			{
 				"name" : "Aliens",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F111",
 				"year" : 1986,
 				"poster" : "aliens.jpg"
 			},
 			{
 				"name" : "Blade Runner",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F105",
 				"year" : 1982,
 				"poster" : "blade_runner.jpg"
 			},
 			{
 				"name" : "Brazil",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1784",
 				"year" : 1985,
 				"poster" : "brazil.jpg"
 			},
 			{
 				"name" : "A Clockwork Orange",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F144",
 				"year" : 1971,
 				"poster" : "a_clockwork_orange.jpg"
 			},
 			{
 				"name" : "Star Wards Episode V: The Empire Strikes Back",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F187",
 				"year" : 1980,
 				"poster" : "star_wars_v.jpg"
 			},
 			{
 				"name" : "The Fly",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F285",
 				"year" : 1986,
 				"poster" : "the_fly.jpg"
 			},
 			{
 				"name" : "Mad Max",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F323",
 				"year" : 1980,
 				"poster" : "mad_max.jpg"
 			},
 			{
 				"name" : "Mad Max 2: The Road Warrior",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F322",
 				"year" : 1982,
 				"poster" : "mad_max_2_the_road_warrior.jpg"
 			},
 			{
 				"name" : "Predator",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F2277",
 				"year" : 1987,
 				"poster" : "predator.jpg"
 			},
 			{
 				"name" : "Star Wars Episode VI: Return of the Jedi",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F185",
 				"year" : 1983,
 				"poster" : "star_wars_vi.jpg"
 			},
 			{
 				"name" : "Solaris",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F300",
 				"year" : 1972,
 				"poster" : "solaris.jpg"
 			},
 			{
 				"name" : "Stalker",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F225",
 				"year" : 1979,
 				"poster" : "stalker.jpg"
 			},
 			{
 				"name" : "Star Wars Episode IV: A New Hope",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F186",
 				"year" : 1977,
 				"poster" : "star_wars_iv.jpg"
 			},
 			{
 				"name" : "Starship Troopers",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1939",
 				"year" : 1977,
 				"poster" : "starship_troopers.jpg"
 			},
 			{
 				"name" : "The Terminator",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F289",
 				"year" : 1984,
 				"poster" : "the_terminator.jpg"
 			},
 			{
 				"name" : "Terminator 2: Judgement Day",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F290",
 				"year" : 1991,
 				"poster" : "terminator_2_judgement_day.jpg"
 			},
 			{
 				"name" : "They Live",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F257",
 				"year" : 1988,
 				"poster" : "they_live.jpg"
 			},
 			{
 				"name" : "The Thing",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F316",
 				"year" : 1982,
 				"poster" : "the_thing.jpg"
 			},
 			{
 				"name" : "Total Recall",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F90",
 				"year" : 1990,
 				"poster" : "total_recall.jpg"
 			}
@@ -292,10 +286,10 @@
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
-				"name" : "12 Monkeys",
-				"link" : "",
-				"year" : 1995,
-				"poster" : "12_monkeys.jpg"
+				"name" : "Good Vibrations",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F25",
+				"year" : 2012,
+				"poster" : "good_vibrations.jpg"
 			},
 			{
 				"name" : "2001: A Space Odyssey",
@@ -353,7 +347,7 @@
 			},
 			{
 				"name" : "2001: A Space Odyssey",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1807",
 				"year" : 1968,
 				"poster" : "2001_a_space_odyssey.jpg"
 			}
@@ -383,169 +377,175 @@
 		"movies" : [
 			{
 				"name" : "12 Monkeys",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F275",
 				"year" : 1995,
 				"poster" : "12_monkeys.jpg"
 			},
 			{
 				"name" : "2001: A Space Odyssey",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1807",
 				"year" : 1968,
 				"poster" : "2001_a_space_odyssey.jpg"
 			},
 			{
 				"name" : "Alien",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F110",
 				"year" : 1979,
 				"poster" : "alien.jpg"
 			},
 			{
 				"name" : "Apocalypse Now",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F168",
 				"year" : 1979,
 				"poster" : "apocalypse_now.jpg"
 			},
 			{
 				"name" : "Badlands",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F167",
 				"year" : 1973,
 				"poster" : "badlands.jpg"
 			},
 			{
 				"name" : "Blade Runner",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F105",
 				"year" : 1982,
 				"poster" : "blade_runner.jpg"
 			},
 			{
 				"name" : "Citizen Kane",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F63",
 				"year" : 1941,
 				"poster" : "citizen_kane.jpg"
 			},
 			{
 				"name" : "Fargo",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F36",
 				"year" : 1996,
 				"poster" : "fargo.jpg"
 			},
 			{
 				"name" : "The Godfather",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1875",
 				"year" : 1972,
 				"poster" : "the_godfather.jpg"
 			},
 			{
 				"name" : "Good Will Hunting",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F88",
 				"year" : 1997,
 				"poster" : "good_will_hunting.jpg"
 			},
 			{
 				"name" : "The Good, The Bad and The Ugly",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F276",
 				"year" : 1967,
 				"poster" : "the_good_the_bad_and_the_ugly.jpg"
 			},
 			{
+				"name" : "Lawrence of Arabia",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F329",
+				"year" : 1962,
+				"poster" : "lawrence_of_arabia.jpg"
+			},
+			{
 				"name" : "The Lord of the Rings: The Fellowship of the Ring",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F234",
 				"year" : 2001,
 				"poster" : "the_lord_of_the_rings_the_fellowship_of_the_ring.jpg"
 			},
 			{
 				"name" : "Magnolia",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F321",
 				"year" : 1999,
 				"poster" : "magnolia.jpg"
 			},
 			{
 				"name" : "No Country For Old Men",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F221",
 				"year" : 2007,
 				"poster" : "no_country_for_old_men.jpg"
 			},
 			{
 				"name" : "One Flew Over the Cuckoo's Nest",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F228",
 				"year" : 1975,
 				"poster" : "one_flew_over_the_cuckoos_nest.jpg"
 			},
 			{
 				"name" : "Pan's Labyrinth",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F157",
 				"year" : 2006,
 				"poster" : "pans_labyrinth.jpg"
 			},
 			{
 				"name" : "Psycho",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F97",
 				"year" : 1960,
 				"poster" : "psycho.jpg"
 			},
 			{
 				"name" : "Pulp Fiction",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F104",
 				"year" : 1994,
 				"poster" : "pulp_fiction.jpg"
 			},
 			{
 				"name" : "Requiem for a Dream",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F224",
 				"year" : 2000,
 				"poster" : "requiem_for_a_dream.jpg"
 			},
 			{
 				"name" : "Seven Samurai",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F278",
 				"year" : 1956,
 				"poster" : "seven_samurai.jpg"
 			},
 			{
 				"name" : "The Silence of the Lambs",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F312",
 				"year" : 1991,
 				"poster" : "the_silence_of_the_lambs.jpg"
 			},
 			{
 				"name" : "Taxi Driver",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F313",
 				"year" : 1976,
 				"poster" : "taxi_driver.jpg"
 			},
 			{
 				"name" : "The Will Be Blood",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F307",
 				"year" : 2007,
 				"poster" : "there_will_be_blood.jpg"
 			},
 			{
 				"name" : "The Thin Red Line",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F314",
 				"year" : 1998,
 				"poster" : "the_thin_red_line.jpg"
 			},
 			{
 				"name" : "The Thing",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F316",
 				"year" : 1982,
 				"poster" : "the_thing.jpg"
 			},
 			{
 				"name" : "The Usual Suspects",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F229",
 				"year" : 1995,
 				"poster" : "the_usual_suspects.jpg"
 			},
 			{
 				"name" : "Whiplash",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F206",
 				"year" : 2014,
 				"poster" : "whiplash.jpg"
 			},
 			{
 				"name" : "Zodiac",
-				"link" : "",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F181",
 				"year" : 2007,
 				"poster" : "zodiac.jpg"
 			}
