@@ -1,6 +1,7 @@
 {
 	"categories" : [{
 		"name" : "Modern, Original Sci-fi",
+		"code" : "modscifi",
 		"description" : "Sci-fi movies from this millenium that aren't remakes, reboots or based on a comic book (except for in exceptional cases)",
 		"movies" : [
 			{
@@ -133,6 +134,7 @@
 	},
 	{
 		"name" : "Classic Sci-fi",
+		"code" : "oldscifi",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -283,6 +285,7 @@
 	},
 	{
 		"name" : "Movies about music",
+		"code" : "music",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -301,6 +304,7 @@
 	},
 	{
 		"name" : "Sad & harrowing movies",
+		"code" : "sad",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -319,6 +323,7 @@
 	},
 	{
 		"name" : "Movies with war",
+		"code" : "war",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -337,6 +342,7 @@
 	},
 	{
 		"name" : "Long but worthwhile movies",
+		"code" : "long",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -355,6 +361,7 @@
 	},
 	{
 		"name" : "Movies kids can watch",
+		"code" : "kids",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -373,6 +380,7 @@
 	},
 	{
 		"name" : "Movies to watch before you die",
+		"code" : "best",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{
@@ -553,6 +561,7 @@
 	},
 	{
 		"name" : "Matt's favourite movies",
+		"code" : "favourite",
 		"description" : "Acclaimed sci-fi from before the year 2000",
 		"movies" : [
 			{

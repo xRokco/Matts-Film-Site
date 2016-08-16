@@ -13,6 +13,7 @@
             </nav>
         </header>
         <div id="title"></div>
+        <div id="heading"></div>
         <div id="id01"></div>
 
         <script>
@@ -33,15 +34,25 @@
                 var out = "";
                 var i;
                 for(i = 0; i < arr.categories.length; i++) {
-                    out += '<a title="' + arr.categories[i].description + '" data-scroll href="#id01" class="button" onclick="movielist(' + i + ')">' + arr.categories[i].name + '</a>';
+                    out += '<a title="' + arr.categories[i].description + '" data-scroll href="#id' + i + '" class="button" onclick="movielist(' + i + ')">' + arr.categories[i].name + '</a>';
                 }
                 document.getElementById("title").innerHTML = out;
+                linker();
+            }
+
+            function linker() {
+                if(window.location.hash) {
+                    movielist(window.location.hash.slice(3));
+                    document.getElementById(window.location.hash.slice(1)).scrollIntoView();
+                }
             }
 
             function movielist(j) {
-                var out = "";
+                var out = '';
+                var heading = '<h1 id="id' + j + '">' + myArr.categories[j].name + '</h1>';
+                document.getElementById("heading").innerHTML = heading;
                 for(i = 0; i < myArr.categories[j].movies.length; i++) {
-                    out += '<div class="itemsContainer"><div class="image"> <a href="' + myArr.categories[j].movies[i].link + '" class="darken"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + '" src="images/' + myArr.categories[j].movies[i].poster + '" /></a></div><div class="play"><a href="' + myArr.categories[j].movies[i].link + '"><img src="images/play.png" width="50px" /></a></div></div>';
+                    out += '<div data-scroll class="itemsContainer"><div class="image"> <a href="' + myArr.categories[j].movies[i].link + '" class="darken"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + '" src="images/' + myArr.categories[j].movies[i].poster + '" /></a></div><div class="play"><a href="' + myArr.categories[j].movies[i].link + '"><img src="images/play.png" width="50px" /></a></div></div>';
                 }
                 document.getElementById("id01").innerHTML = out;
             }
