@@ -550,5 +550,53 @@
 				"poster" : "zodiac.jpg"
 			}
 		]
+	},
+	{
+		"name" : "Matt's favourite movies",
+		"description" : "Acclaimed sci-fi from before the year 2000",
+		"movies" : [
+			{
+				"name" : "The Master",
+				"link" : "https://plex2.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F299",
+				"year" : 2012,
+				"poster" : "the_master.jpg"
+			},
+			{ 
+				"name" : "28 Days Later",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F175",
+				"year" : 2003,
+				"poster" : "28_days_later.jpg"
+			},
+			{
+				"name" : "The Thing",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F316",
+				"year" : 1982,
+				"poster" : "the_thing.jpg"
+			},
+			{
+				"name" : "Brazil",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F1784",
+				"year" : 1985,
+				"poster" : "brazil.jpg"
+			},
+			{
+				"name" : "The Lord of the Rings: The Fellowship of the Ring",
+				"link" : "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F234",
+				"year" : 2001,
+				"poster" : "the_lord_of_the_rings_the_fellowship_of_the_ring.jpg"
+			},
+			{
+				"name" : "Enemy",
+				"link" : "https://plex2.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F46",
+				"year" : 2014,
+				"poster" : "enemy.jpg"
+			},
+			{
+				"name" : "Leon: The Professional",
+				"link" : "https://plex2.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F101",
+				"year" : 1994,
+				"poster" : "leon.jpg"
+			}
+		]
 	}]
 }
