@@ -43,7 +43,9 @@
             function linker() {
                 if(window.location.hash) {
                     movielist(window.location.hash.slice(3));
-                    document.getElementById(window.location.hash.slice(1)).scrollIntoView();
+                    smoothScroll.animateScroll(
+                        '#id' + window.location.hash.slice(3)
+                    );
                 }
             }
 
