@@ -1,5 +1,5 @@
 a.darken {
-    display: inline-block;
+    display: block;
     background: black;
     padding: 0;
 }
@@ -12,6 +12,8 @@ a.darken img {
     -ms-transition: all 0.5s linear;
     -o-transition: all 0.5s linear;
     transition: all 0.5s linear;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .image {
@@ -29,7 +31,7 @@ a.darken img {
     float:left;
 
     margin: 20px;
-    border: 5px solid white;
+    border: 5px solid #CC7F0F;
 }
 
 .itemsContainer:hover .play{
@@ -52,7 +54,6 @@ a.darken img {
 } 
 
 #title {
-    background-color: rgba(0,0,0,.15);
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap
@@ -60,32 +61,39 @@ a.darken img {
 
 nav {
     margin: 0px;
-    background-color: black;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body {
     margin: 0px;
-    background-color: rgb(31, 31, 31);
 }
 
 h1 {
     margin: 0px;
-    color: white;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Quattrocento', sans-serif;
+    font-weight: 400;
+}
+
+#logo h1 {
+    font-size: 6.0rem;
+    text-align: right;
 }
 
 p {
-    color: white;
-    font-family: 'Open Sans', sans-serif;  
+    font-family: 'Muli', sans-serif;  
 }
 
 a {
-    color: #f9be03;
-    font-family: 'Open Sans', sans-serif; 
+    color: #1EAEDB;
+    font-family: 'Muli', sans-serif; 
 }
 
 .button {
-    background-color: #f9be03;
+    background-color: #1EAEDB;
     border: none;
     color: black;
     padding: 20px 20px;
@@ -104,6 +112,15 @@ a {
     justify-content: space-around;
 }
 
-nav h1 {
+#heading {
+    font-size: 1em;
     text-align: center;
+}
+
+#desc {
+    margin-top: 10px;
+}
+
+.selected {
+    background-color: #1EAEDB !important;   
 }

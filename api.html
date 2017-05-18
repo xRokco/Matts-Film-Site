@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PlexRecs</title>
+        <link href="styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href='https://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Muli:400,700' rel='stylesheet' type='text/css'>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="smooth.js"></script>
+    </head>
+    <body>
+        <script>
+            var xmlhttp = new XMLHttpRequest();
+            var url = "movies.json";
+            var myArr;
+
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    myArr = JSON.parse(xmlhttp.responseText);
+                    catlist(myArr);
+                }
+            };
+            xmlhttp.open("GET", url, true);
+            xmlhttp.send();
+
+            var json = "";
+
+            function catlist(arr) {
+                var out = "";
+                i = 7;
+                j = 6;
+
+                function request(i, j) {
+                    if (!arr.categories[i].movies[j].link.startsWith('tt')){
+                        jQuery.ajax({
+                            url: 'https://crossorigin.me/http://www.imdb.com/xml/find?json=1&nr=1&tt=on&q=' + arr.categories[i].movies[j].name,
+                            dataType: 'json'
+                        }).done(function (result) {
+                            console.log(i);
+                            console.log(j);
+                            if(result.title_popular) {
+                                if (arr.categories[i].movies[j].year == result.title_popular[0].title_description.substring(0, 4)){
+                                    arr.categories[i].movies[j].link = result.title_popular[0].id;
+                                }
+                            } else if(result.title_exact) {
+                                if(arr.categories[i].movies[j].year == result.title_exact[0].title_description.substring(0, 4)){
+                                    arr.categories[i].movies[j].link = result.title_exact[0].id;
+                                }
+                            } else if(result.title_approx) {
+                                if(arr.categories[i].movies[j].year == result.title_approx[0].title_description.substring(0, 4)){
+                                    arr.categories[i].movies[j].link = result.title_approx[0].id;
+                                }
+                            }
+
+                            if(i == arr.categories.length - 1 && j == arr.categories[i].movies.length - 1){
+                                console.log(JSON.stringify(arr, null, 4));
+                            } else {
+                                if(j == arr.categories[i].movies.length - 1) {
+                                    i++;
+                                    j = 0;
+                                    request(i, j);
+                                } else {
+                                    j++;
+                                    request(i, j);
+                                }
+                            }
+                        }).fail(function (err) {
+                            console.log(JSON.stringify(arr, null, 4));
+                        });
+                    } else {
+                        if(i == arr.categories.length - 1 && j == arr.categories[i].movies.length - 1){
+                            console.log(JSON.stringify(arr, null, 4));
+                        } else {
+                            if(j == arr.categories[i].movies.length - 1) {
+                                i++;
+                                j = 0;
+                                request(i, j);
+                            } else {
+                                j++;
+                                request(i, j);
+                            }
+                        }
+                    }
+                }
+
+                request(i, j);
+            }
+        </script>
+    </body>
+</html>
