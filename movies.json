@@ -3,7 +3,7 @@
         {
             "name": "Modern, Original Sci-fi",
             "code": "modscifi",
-            "description": "Sci-fi movies from this millenium that aren't remakes, reboots or based on a comic book (except for in exceptional cases)",
+            "description": "Sci-fi movies from this millennium that aren't remakes, reboots or based on a comic book (except for in exceptional cases)",
             "movies": [
                 {
                     "name": "10 Cloverfield Lane",
@@ -436,16 +436,82 @@
             "description": "Historical war movies, generally set on the front lines",
             "movies": [
                 {
-                    "name": "12 Monkeys",
-                    "link": "tt0114746",
-                    "year": 1995,
-                    "poster": "12_monkeys.jpg"
+                    "name": "Full Metal Jacket",
+                    "link": "tt0093058",
+                    "year": 1987,
+                    "poster": "full_metal_jacket.jpg"
                 },
                 {
-                    "name": "2001: A Space Odyssey",
-                    "link": "tt0062622",
-                    "year": 1968,
-                    "poster": "2001_a_space_odyssey.jpg"
+                    "name": "Saving Private Ryan",
+                    "link": "tt0120815",
+                    "year": 1998,
+                    "poster": "saving_private_ryan.jpg"
+                },
+                {
+                    "name": "The Thin Red Line",
+                    "link": "tt0120863",
+                    "year": 1998,
+                    "poster": "the_thin_red_line.jpg"
+                },
+                {
+                    "name": "Black Hawk Down",
+                    "link": "tt0265086",
+                    "year": 2001,
+                    "poster": "black_hawk_down.jpg"
+                },
+                {
+                    "name": "Apocalypse Now",
+                    "link": "tt0078788",
+                    "year": 1979,
+                    "poster": "apocalypse_now.jpg"
+                },
+                {
+                    "name": "Platoon",
+                    "link": "tt0091763",
+                    "year": 1986,
+                    "poster": "platoon.jpg"
+                },
+                {
+                    "name": "The Bridge on the River Kwai",
+                    "link": "tt0050212",
+                    "year": 1957,
+                    "poster": "the_bridge_on_the_river_kwai.jpg"
+                },
+                {
+                    "name": "Letters from Iwo Jima",
+                    "link": "tt0498380",
+                    "year": 2006,
+                    "poster": "letters_from_iwo_jima.jpg"
+                },
+                {
+                    "name": "Hacksaw Ridge",
+                    "link": "tt2119532",
+                    "year": 2016,
+                    "poster": "hacksaw_ridge.jpg"
+                },
+                {
+                    "name": "The Hurt Locker",
+                    "link": "tt0887912",
+                    "year": 2008,
+                    "poster": "the_hurt_locker.jpg"
+                },
+                {
+                    "name": "Braveheart",
+                    "link": "tt0112573",
+                    "year": 1995,
+                    "poster": "braveheart.jpg"
+                },
+                {
+                    "name": "Inglourious Basterds",
+                    "link": "tt0361748",
+                    "year": 2009,
+                    "poster": "inglourious_basterds.jpg"
+                },
+                {
+                    "name": "Das Boot",
+                    "link": "tt0082096",
+                    "year": 1981,
+                    "poster": "das_boot.jpg"
                 }
             ]
         },
@@ -456,55 +522,55 @@
             "movies": [
                 {
                     "name": "The Lord of the Rings: The Return of the King",
-                    "link": "asa",
+                    "link": "tt0167260",
                     "year": 2003,
                     "poster": "the_lord_of_the_rings_the_return_of_the_king.jpg"
                 },
                 {
                     "name": "Lawrence of Arabia",
-                    "link": "qwq",
+                    "link": "tt0056172",
                     "year": 1962,
                     "poster": "lawrence_of_arabia.jpg"
                 },
                 {
                     "name": "Ben-Hur",
-                    "link": "qwq",
+                    "link": "tt0052618",
                     "year": 1959,
-                    "poster": "ben-hur.jpg"
+                    "poster": "ben_hur.jpg"
                 },
                 {
                     "name": "Seven Samurai",
-                    "link": "qwq",
+                    "link": "tt0047478",
                     "year": 1956,
                     "poster": "seven_samurai.jpg"
                 },
                 {
                     "name": "The Godfather: Part II",
-                    "link": "qwq",
+                    "link": "tt0071562",
                     "year": 1974,
                     "poster": "the_godfather_ii.jpg"
                 },
                 {
                     "name": "Schindler's List",
-                    "link": "qwq",
+                    "link": "tt0108052",
                     "year": 1993,
                     "poster": "schindlers_list.jpg"
                 },
                 {
                     "name": "Magnolia",
-                    "link": "qwq",
+                    "link": "tt0175880",
                     "year": 1999,
                     "poster": "magnolia.jpg"
                 },
                 {
                     "name": "Kingdom of Heaven",
-                    "link": "qwq",
+                    "link": "tt0320661",
                     "year": 2005,
                     "poster": "kingdom_of_heaven.jpg"
                 },
                 {
                     "name": "The Deer Hunter",
-                    "link": "qwq",
+                    "link": "tt0077416",
                     "year": 1978,
                     "poster": "the_deer_hunter.jpg"
                 }
@@ -513,19 +579,115 @@
         {
             "name": "Movies kids can watch",
             "code": "kids",
-            "description": "PG and below movies",
+            "description": "PG and below movies, you can pretty much include all Pixar movies too...",
             "movies": [
                 {
-                    "name": "12 Monkeys",
-                    "link": "tt0114746",
+                    "name": "Toy Story",
+                    "link": "tt0114709",
                     "year": 1995,
-                    "poster": "12_monkeys.jpg"
+                    "poster": "toy_story.jpg"
                 },
                 {
-                    "name": "2001: A Space Odyssey",
-                    "link": "tt0062622",
-                    "year": 1968,
-                    "poster": "2001_a_space_odyssey.jpg"
+                    "name": "Spirited Away",
+                    "link": "tt0245429",
+                    "year": 2001,
+                    "poster": "spirited_away.jpg"
+                },
+                {
+                    "name": "Finding Nemo",
+                    "link": "tt0266543",
+                    "year": 2003,
+                    "poster": "finding_nemo.jpg"
+                },
+                {
+                    "name": "WALL-E",
+                    "link": "tt0910970",
+                    "year": 2008,
+                    "poster": "wall_e.jpg"
+                },
+                {
+                    "name": "Babe",
+                    "link": "tt0112431",
+                    "year": 1995,
+                    "poster": "babe.jpg"
+                },
+                {
+                    "name": "Beauty and the Beast",
+                    "link": "tt0101414",
+                    "year": 1991,
+                    "poster": "beauty_and_the_beast.jpg"
+                },
+                {
+                    "name": "The Iron Giant",
+                    "link": "tt0129167",
+                    "year": 1999,
+                    "poster": "the_iron_giant.jpg"
+                },
+                {
+                    "name": "The Lego Movie",
+                    "link": "tt1490017",
+                    "year": 2014,
+                    "poster": "the_lego_movie.jpg"
+                },
+                {
+                    "name": "The Lion King",
+                    "link": "tt0110357",
+                    "year": 1994,
+                    "poster": "the_lion_king.jpg"
+                },
+                {
+                    "name": "Mary Poppins",
+                    "link": "tt0058331",
+                    "year": 1964,
+                    "poster": "mary_poppins.jpg"
+                },
+                {
+                    "name": "Shrek",
+                    "link": "tt0126029",
+                    "year": 2001,
+                    "poster": "shrek.jpg"
+                },
+                {
+                    "name": "The Sound of Music",
+                    "link": "tt0059742",
+                    "year": 1965,
+                    "poster": "the_sound_of_music.jpg"
+                },
+                {
+                    "name": "The Wizard of Oz",
+                    "link": "tt0032138",
+                    "year": 1939,
+                    "poster": "the_wizard_of_oz.jpg"
+                },
+                {
+                    "name": "E.T.: The Extra-Terrestrial",
+                    "link": "tt0083866",
+                    "year": 1982,
+                    "poster": "et_the_extra_terrestrial.jpg"
+                },
+                {
+                    "name": "Harry Potter and the Philosopher's Stone",
+                    "link": "tt0241527",
+                    "year": 2001,
+                    "poster": "harry_potter_and_the_philosophers_stone.jpg"
+                },
+                {
+                    "name": "James and the Giant Peach",
+                    "link": "tt0116683",
+                    "year": 1996,
+                    "poster": "james_and_the_giant_peach.jpg"
+                },
+                {
+                    "name": "Hugo",
+                    "link": "tt0970179",
+                    "year": 2011,
+                    "poster": "hugo.jpg"
+                },
+                {
+                    "name": "The Princess Bride",
+                    "link": "tt0093779",
+                    "year": 1987,
+                    "poster": "the_princess_bride.jpg"
                 }
             ]
         },
@@ -596,8 +758,8 @@
                 },
                 {
                     "name": "The Good, The Bad and The Ugly",
-                    "link": "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F276",
-                    "year": 1967,
+                    "link": "tt0060196",
+                    "year": 1966,
                     "poster": "the_good_the_bad_and_the_ugly.jpg"
                 },
                 {
@@ -656,8 +818,8 @@
                 },
                 {
                     "name": "Seven Samurai",
-                    "link": "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F278",
-                    "year": 1956,
+                    "link": "tt0047478",
+                    "year": 1954,
                     "poster": "seven_samurai.jpg"
                 },
                 {
@@ -722,9 +884,9 @@
                     "poster": "the_master.jpg"
                 },
                 {
-                    "name": "28 Days Later",
-                    "link": "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F175",
-                    "year": 2003,
+                    "name": "28 Days Later...",
+                    "link": "tt0289043",
+                    "year": 2002,
                     "poster": "28_days_later.jpg"
                 },
                 {
@@ -747,8 +909,8 @@
                 },
                 {
                     "name": "Enemy",
-                    "link": "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F46",
-                    "year": 2014,
+                    "link": "tt2316411",
+                    "year": 2013,
                     "poster": "enemy.jpg"
                 },
                 {
@@ -766,7 +928,7 @@
             ]
         },
         {
-            "name": "Movies about lonliness",
+            "name": "Movies about loneliness",
             "code": "lonely",
             "description": "Movies that deal with or capture loneliness",
             "movies": [
@@ -792,7 +954,7 @@
                     "name": "WALL-E",
                     "link": "tt0910970",
                     "year": 2008,
-                    "poster": "wall-e.jpg"
+                    "poster": "wall_e.jpg"
                 },
                 {
                     "name": "Taxi Driver",
@@ -802,7 +964,7 @@
                 },
                 {
                     "name": "Solaris",
-                    "link": "https://plex.rokco.org/web/index.html#!/server/fe5fadf31b7360c475c2ca2c171c28e115c47764/details/%2Flibrary%2Fmetadata%2F46",
+                    "link": "tt0307479",
                     "year": 1972,
                     "poster": "solaris.jpg"
                 },
@@ -823,6 +985,194 @@
                     "link": "tt0361862",
                     "year": 2004,
                     "poster": "the_machinist.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Marvel Cinematic Universe",
+            "code": "marvel",
+            "description": "All currently released movies in the MCU, in order of release.",
+            "movies": [
+                {
+                    "name": "Iron Man",
+                    "link": "tt0371746",
+                    "year": 2008,
+                    "poster": "iron_man.jpg"
+                },
+                {
+                    "name": "The Incredible Hulk",
+                    "link": "tt0800080",
+                    "year": 2008,
+                    "poster": "the_incredible_hulk.jpg"
+                },
+                {
+                    "name": "Iron Man 2",
+                    "link": "tt1228705",
+                    "year": 2010,
+                    "poster": "iron_man_2.jpg"
+                },
+                {
+                    "name": "Thor",
+                    "link": "tt0800369",
+                    "year": 2011,
+                    "poster": "thor.jpg"
+                },
+                {
+                    "name": "Captain America: The First Avenger",
+                    "link": "tt0458339",
+                    "year": 2011,
+                    "poster": "captain_america_the_first_avenger.jpg"
+                },
+                {
+                    "name": "The Avengers",
+                    "link": "tt0848228",
+                    "year": 2012,
+                    "poster": "the_avengers.jpg"
+                },
+                {
+                    "name": "Iron Man 3",
+                    "link": "tt1300854",
+                    "year": 2013,
+                    "poster": "iron_man_3.jpg"
+                },
+                {
+                    "name": "Thor: The Dark World",
+                    "link": "tt1981115",
+                    "year": 2013,
+                    "poster": "thor_the_dark_world.jpg"
+                },
+                {
+                    "name": "Captain America: The Winter Soldier",
+                    "link": "tt1843866",
+                    "year": 2014,
+                    "poster": "captain_america_the_winter_soldier.jpg"
+                },
+                {
+                    "name": "Guardians of the Galaxy",
+                    "link": "tt2015381",
+                    "year": 2014,
+                    "poster": "guardians_of_the_galaxy.jpg"
+                },
+                {
+                    "name": "Avengers: Age of Ultron",
+                    "link": "tt2395427",
+                    "year": 2015,
+                    "poster": "avengers_age_of_ultron.jpg"
+                },
+                {
+                    "name": "Ant-Man",
+                    "link": "tt0478970",
+                    "year": 2015,
+                    "poster": "ant_man.jpg"
+                },
+                {
+                    "name": "Captain America: Civil War",
+                    "link": "tt3498820",
+                    "year": 2016,
+                    "poster": "captain_america_civil_war.jpg"
+                },
+                {
+                    "name": "Doctor Strange",
+                    "link": "tt1211837",
+                    "year": 2016,
+                    "poster": "doctor_strange.jpg"
+                },
+                {
+                    "name": "Guardians of the Galaxy Vol. 2",
+                    "link": "tt3896198",
+                    "year": 2017,
+                    "poster": "guardians_of_the_galaxy_vol_2.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Monster movies",
+            "code": "monster",
+            "description": "Monster movies, creature features, and movies with eldritch horrors",
+            "movies": [
+                {
+                    "name": "Jaws",
+                    "link": "tt0073195",
+                    "year": 1975,
+                    "poster": "jaws.jpg"
+                },
+                {
+                    "name": "Godzilla",
+                    "link": "tt0047034",
+                    "year": 1954,
+                    "poster": "godzilla.jpg"
+                },
+                {
+                    "name": "Cloverfield",
+                    "link": "tt1060277",
+                    "year": 2008,
+                    "poster": "cloverfield.jpg"
+                },
+                {
+                    "name": "The Host",
+                    "link": "tt0468492",
+                    "year": 2006,
+                    "poster": "the_host.jpg"
+                },
+                {
+                    "name": "The Mist",
+                    "link": "tt0884328",
+                    "year": 2007,
+                    "poster": "the_mist.jpg"
+                },
+                {
+                    "name": "The Thing",
+                    "link": "tt0084787",
+                    "year": 1982,
+                    "poster": "the_thing.jpg"
+                },
+                {
+                    "name": "The Fly",
+                    "link": "tt0091064",
+                    "year": 1986,
+                    "poster": "the_fly.jpg"
+                },
+                {
+                    "name": "Call of Cthulhu",
+                    "link": "tt0478988",
+                    "year": 2005,
+                    "poster": "call_of_cthulhu.jpg"
+                },
+                {
+                    "name": "Tremors",
+                    "link": "tt0100814",
+                    "year": 1990,
+                    "poster": "tremors.jpg"
+                },
+                {
+                    "name": "Trollhunter",
+                    "link": "tt1740707",
+                    "year": 2010,
+                    "poster": "trollhunter.jpg"
+                },
+                {
+                    "name": "Pacific Rim",
+                    "link": "tt1663662",
+                    "year": 2013,
+                    "poster": "pacific_rim.jpg"
+                },
+                {
+                    "name": "Hellboy",
+                    "link": "tt0167190",
+                    "year": 2004,
+                    "poster": "hellboy.jpg"
+                },
+                {
+                    "name": "Aliens",
+                    "link": "tt0090605",
+                    "year": 1986,
+                    "poster": "aliens.jpg"
+                },
+                {
+                    "name": "Jurassic Park",
+                    "link": "tt0107290",
+                    "year": 1993,
+                    "poster": "jurassic_park.jpg"
                 }
             ]
         }

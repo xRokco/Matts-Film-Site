@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PlexRecs</title>
-        <link href="styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <title>Matt's Film Site</title>
         <link href="skeleton.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         <link href='https://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Muli:400,700' rel='stylesheet' type='text/css'>
         <script src="smooth.js"></script>
@@ -12,9 +12,9 @@
         <header>
             <nav class="row">
                 <div class="four columns" id="logo">
-                    <h1>Matt's<br>
-                    Film<br>
-                    Site</h1>
+                    <h1>Matt's</h1>
+                    <h1>Film</h1>
+                    <h1>Site</h1>
                 </div>
                 <div class="eight columns" id="desc">
                     <p>click a genre or category to get a list of movies</p>
@@ -29,6 +29,7 @@
         </header>
         <div id="title"></div>
         <div id="heading"></div>
+        <div id="subheading"></div>
         <div id="id01"></div>
 
         <script>
@@ -49,7 +50,9 @@
                 var out = "";
                 var i;
                 for(i = 0; i < arr.categories.length; i++) {
-                    out += '<a title="' + arr.categories[i].description + '" id="code' + i + '" data-scroll href="#id' + i + '" class="button" onclick="movielist(' + i + ')">' + arr.categories[i].name + '</a>';
+                    if(arr.categories[i].name && arr.categories[i].name != ""){
+                        out += '<a title="' + arr.categories[i].description + '" id="code' + i + '" data-scroll href="#id' + i + '" class="button" onclick="movielist(' + i + ')">' + arr.categories[i].name + '</a>';
+                    }
                 }
                 document.getElementById("title").innerHTML = out;
                 linker();
@@ -72,8 +75,11 @@
                 var out = '';
                 var heading = '<h1 id="id' + j + '">' + myArr.categories[j].name + '</h1>';
                 document.getElementById("heading").innerHTML = heading;
+                document.getElementById("subheading").innerHTML = '<h3>' + myArr.categories[j].description + '</h3>';
                 for(i = 0; i < myArr.categories[j].movies.length; i++) {
-                    out += '<div data-scroll class="itemsContainer"><div class="image"> <a href="http://www.imdb.com/title/' + myArr.categories[j].movies[i].link + '" class="darken"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + '" src="images/' + myArr.categories[j].movies[i].poster + '" /></a></div><div class="play"><a href="' + myArr.categories[j].movies[i].link + '"></a></div></div>';
+                    if(myArr.categories[j].movies[i].name && myArr.categories[j].movies[i].name != ""){
+                        out += '<div data-scroll class="itemsContainer"><div class="image"> <a href="http://www.imdb.com/title/' + myArr.categories[j].movies[i].link + '" class="darken"><img alt="' + myArr.categories[j].movies[i].name + '" title="' + myArr.categories[j].movies[i].name + ' (' + myArr.categories[j].movies[i].year + ')" src="images/' + myArr.categories[j].movies[i].poster + '" /></a></div><div class="play"><a href="' + myArr.categories[j].movies[i].link + '"></a></div></div>';
+                    }
                 }
                 document.getElementById("id01").innerHTML = out;
             }
@@ -82,6 +88,7 @@
             <script>
                 smoothScroll.init();
             </script>
+            <!-- This site was built for Marita, who listened to me talk about servers, Plex, and movies while lying on a beach at a music festival in Spain -->
         </footer>
     </body>
 </html>
